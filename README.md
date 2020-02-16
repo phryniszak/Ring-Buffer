@@ -5,7 +5,7 @@ A simple ring buffer (circular buffer) designed for embedded systems.
 
 16/02/2020
 
-Ring bugffers can have different sizes as long size is 2^n. Declare size during initilizetion.
+Ring bugffers can have different sizes as long size is 2^n. Declare size during initilization.
 
 new functions:
 
